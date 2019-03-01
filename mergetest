@@ -1,17 +1,21 @@
+hi from origin develop branch
 hi from local develop branch
 this is merge test
 {
 2+2=4
 3+4=7
+origin+ develop=origin develop
 11+7=18
 19*10=190
 local+develop=localdevelop
 12+3=14
 print 'hello'
+print hello from origin develop
 print 'hello from local develop'
 
 
 print from develop
-print from local develop 
+print from origin develop
+print from local develop
 wassup
 }
