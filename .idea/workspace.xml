@@ -22,11 +22,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="origin/develop" />
+        <entry key="$PROJECT_DIR$" value="feature" />
       </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="149" />
     <option name="y" value="116" />
     <option name="width" value="1303" />
@@ -71,15 +71,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551416086543</updated>
-      <workItem from="1551416089874" duration="1024000" />
+      <workItem from="1551416089874" duration="2125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1024000" />
+    <option name="totallyTimeSpent" value="2125000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="25" width="1313" height="743" extended-state="6" />
+    <frame x="53" y="25" width="1313" height="743" extended-state="7" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
